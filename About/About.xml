@@ -1,7 +1,7 @@
 ﻿<ModMetaData>
 	<name>Add my music, please!</name>
 	<author>HypoxiE</author>
-	<packageId>custom.music_control</packageId>
+	<packageId>hypoxie.ammp</packageId>
 	<supportedVersions>
 	<li>1.4</li>
 	<li>1.5</li>
