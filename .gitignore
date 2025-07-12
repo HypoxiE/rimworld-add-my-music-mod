@@ -1,0 +1,5 @@
+.vdf
+DLLSourceCode/**/*.dll
+DLLSourceCode/bin/*
+DLLSourceCode/obj/*
+DLLSourceCode/References/*

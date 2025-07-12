@@ -7,6 +7,10 @@
 	<li>1.5</li>
 	<li>1.6</li>
 	</supportedVersions>
+	<dependencies>
+		<li>ludeon.rimworld</li>
+		<li>brrainz.harmony</li>
+	</dependencies>
 	<description>
 [EN]
 This mod adds the ability to put your own music in the game.
