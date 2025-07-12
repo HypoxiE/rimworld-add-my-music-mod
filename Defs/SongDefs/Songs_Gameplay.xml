@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<SongDef>
+        <clipPath>Gameplay/Kafka Theme Music EXTENDED - A Dramatic Irony (tnbee mix).Honkai_ Star Rail</clipPath>
+        <volume>1</volume>
+        <tense>true</tense>
+</SongDef>
+<SongDef>
+        <clipPath>Gameplay/Wildfire (Cocolia Boss Theme).Honkai_ Star Rail</clipPath>
+        <volume>1</volume>
+        <tense>true</tense>
+</SongDef>
+</Defs>
