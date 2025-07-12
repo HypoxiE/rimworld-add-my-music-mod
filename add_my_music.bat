@@ -23,9 +23,6 @@ for %%f in (Sounds\Gameplay\*) do (
 	echo 	^<^^!--If true, it only plays in a combat situation--^> >> Defs\SongDefs\Songs_Gameplay.xml
 	echo 	^<tense^>false^</tense^> >> Defs\SongDefs\Songs_Gameplay.xml
 	echo. >> Defs\SongDefs\Songs_Gameplay.xml
-	echo 	^<^^!--If true, it only plays in a combat situation--^> >> Defs\SongDefs\Songs_Gameplay.xml
-	echo 	^<tense^>false^</tense^> >> Defs\SongDefs\Songs_Gameplay.xml
-	echo. >> Defs\SongDefs\Songs_Gameplay.xml
 	echo 	^<^^!--If you want to limit the time of day, delete '^<^^!- -' and '- -^>' of the desired option--^> >> Defs\SongDefs\Songs_Gameplay.xml
 	echo 	^<^^!--^<allowedTimeOfDay^>Day^</allowedTimeOfDay^>--^> >> Defs\SongDefs\Songs_Gameplay.xml
 	echo 	^<^^!--^<allowedTimeOfDay^>Night^</allowedTimeOfDay^>--^> >> Defs\SongDefs\Songs_Gameplay.xml
