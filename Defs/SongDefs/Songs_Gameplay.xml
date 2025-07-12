@@ -1,3 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <Defs> 
+<SongDef> 
+	<defName>test_music_1</defName> 
+	<clipPath>Gameplay/test_music_1</clipPath> 
+ 
+	<!--The probability of music appearing in the game--> 
+	<commonality>1.0</commonality> 
+ 
+	<!--Music volume--> 
+	<volume>1.0</volume> 
+ 
+	<!--If true, it only plays in a combat situation--> 
+	<tense>false</tense> 
+ 
+	<!--If true, it only plays in a combat situation--> 
+	<tense>false</tense> 
+ 
+	<!--If you want to limit the time of day, delete '<!- -' and '- ->' of the desired option--> 
+	<!--<allowedTimeOfDay>Day</allowedTimeOfDay>--> 
+	<!--<allowedTimeOfDay>Night</allowedTimeOfDay>--> 
+ 
+	<!--Listing the seasons in which this song is played--> 
+	<allowedSeasons> <li>Winter</li><li>Spring</li><li>Summer</li><li>Fall</li> </allowedSeasons> 
+</SongDef> 
+<SongDef> 
+	<defName>test_music_2</defName> 
+	<clipPath>Gameplay/test_music_2</clipPath> 
+ 
+	<!--The probability of music appearing in the game--> 
+	<commonality>1.0</commonality> 
+ 
+	<!--Music volume--> 
+	<volume>1.0</volume> 
+ 
+	<!--If true, it only plays in a combat situation--> 
+	<tense>false</tense> 
+ 
+	<!--If true, it only plays in a combat situation--> 
+	<tense>false</tense> 
+ 
+	<!--If you want to limit the time of day, delete '<!- -' and '- ->' of the desired option--> 
+	<!--<allowedTimeOfDay>Day</allowedTimeOfDay>--> 
+	<!--<allowedTimeOfDay>Night</allowedTimeOfDay>--> 
+ 
+	<!--Listing the seasons in which this song is played--> 
+	<allowedSeasons> <li>Winter</li><li>Spring</li><li>Summer</li><li>Fall</li> </allowedSeasons> 
+</SongDef> 
 </Defs> 
