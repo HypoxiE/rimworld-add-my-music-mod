@@ -9,6 +9,7 @@ In the new version, you can freely customize your tracks in `Defs\SongDefs\Songs
 The settings for existing songs will not be lost if you decide to delete old or add new tracks. 
 Simply run `add_my_music.bat` after removing or adding music, and the script will carry over your settings into the new `Songs_Gameplay.xml`.
 
+To update the mod version, run `update.bat`. It won't delete your music or an existing one `Songs_Gameplay.xml`
 
 ## Короткое руководство
 Добавьте свою музыку формата **.mp3** или **.ogg** в директорию `Sounds\Gameplay`. После этого запустите `add_my_music.bat` или `add_my_music.ps1`.
@@ -18,3 +19,5 @@ Simply run `add_my_music.bat` after removing or adding music, and the script wil
 В новой версии вы можете спокойно настраивать свои композиции в `Defs\SongDefs\Songs_Gameplay.xml`.
 Настройки существующих песен не собьются, если вы решите удалить старые или добавить новые.
 Просто нажмите `add_my_music.bat` после удаления/добавления музыки и скрипт перенесёт ваши настройки в новый `Songs_Gameplay.xml`
+
+Для обновления версии мода, запустите `update.bat`. Он не удалит вашу музыку и уже существующий `Songs_Gameplay.xml`
