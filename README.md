@@ -1,7 +1,20 @@
-# Add my music, please! mod for rimworld
+# Add my music, please!
 
-## A short guide
+## Short guide
+Add your music in **.mp3** or **.ogg** format to the `Sounds\Gameplay` directory. Then run `add_my_music.bat` or `add_my_music.ps1`.
 
-In this version, after installing the modification, you need to run add_my_music.bat. After that, in the folder C:\Users\<username>\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\AddMyMusic_data\music_is_here, leave your music and run add_my_music.bat again. After that, run rimworld, close it and load it again. After that, the music should load in the game
+Done! The script will automatically create all the necessary files. You can now launch the game and enjoy your music.
 
-~~To add your music, you just need to drop your music into the Sounds\Gameplay\ folder and run the add_my_music.bat script. After that, the Defs\SongDefs\Songs_Gameplay.xml file will be automatically overwritten and after you enable the mod in the game, your music will appear there.~~
+In the new version, you can freely customize your tracks in `Defs\SongDefs\Songs_Gameplay.xml`. 
+The settings for existing songs will not be lost if you decide to delete old or add new tracks. 
+Simply run `add_my_music.bat` after removing or adding music, and the script will carry over your settings into the new `Songs_Gameplay.xml`.
+
+
+## Короткое руководство
+Добавьте свою музыку формата **.mp3** или **.ogg** в директорию `Sounds\Gameplay`. После этого запустите `add_my_music.bat` или `add_my_music.ps1`.
+
+Готово, скрипт автоматически создаст нужные файлы. Можете заходить в игру и наслаждаться своей музыкой
+
+В новой версии вы можете спокойно настраивать свои композиции в `Defs\SongDefs\Songs_Gameplay.xml`.
+Настройки существующих песен не собьются, если вы решите удалить старые или добавить новые.
+Просто нажмите `add_my_music.bat` после удаления/добавления музыки и скрипт перенесёт ваши настройки в новый `Songs_Gameplay.xml`

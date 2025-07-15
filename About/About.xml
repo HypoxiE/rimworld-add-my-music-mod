@@ -13,14 +13,14 @@
 	</dependencies>
 	<description>
 [EN]
-This mod adds the ability to put your own music in the game.
-Quick guide:
-1) Throw your music into the Sounds\Gameplay\ folder of this mod
-2) Run the add_my_music.bat script
+This mod adds the ability to play your own music in the game.
+Short guide:
+1) Put your music files into the Sounds\Gameplay\ folder of this mod.
+2) Run the add_my_music.bat script.
 
-After running add_my_music.bat, the Defs\SongDefs\Songs_Gameplay.xml file will be completely rewritten. After that, you can change the modifiers in this file, delete something from it or add. Initially, the default parameters are written to it, so you can change them at your discretion. In the future, we plan to make a script that adds and removes music, but does not touch the existing parameters.
+After running add_my_music.bat, the file Defs\SongDefs\Songs_Gameplay.xml will be overwritten (existing settings will be preserved). After that, you can modify the settings in this file, delete entries, or add new ones. Initially, default parameters are written to the file, so you can customize them as you like.
 
-Mod source code: https://github.com/HypoxiE/rimworld-ammp
+Mod source code: https://github.com/HypoxiE/rimworld-add-my-music-mod
 
 [RU]
 Данный мод добавляет возможность ставить свою музыку в игру.
@@ -28,8 +28,8 @@ Mod source code: https://github.com/HypoxiE/rimworld-ammp
 1) Закиньте свою музыку в папку Sounds\Gameplay\ этого мода
 2) Запустите скрипт add_my_music.bat
 
-После запуска add_my_music.bat файл Defs\SongDefs\Songs_Gameplay.xml полностью перезапишется. После этого вы можете менять модификаторы в этом файле, удалять что-либо из него или добавлять. Изначально в него записываются параметры по умолчанию, так что вы можете менять их на своё усмотрение. В будущем планируется сделать скрипт, который добавляет и удаляет музыку, но при этом не трогает уже существующие параметры.
+После запуска add_my_music.bat файл Defs\SongDefs\Songs_Gameplay.xml перезапишется (уже существующие настройки останутся). После этого вы можете менять модификаторы в этом файле, удалять что-либо из него или добавлять. Изначально в него записываются параметры по умолчанию, так что вы можете менять их на своё усмотрение.
 
-Исходный код мода: https://github.com/HypoxiE/rimworld-ammp
+Исходный код мода: https://github.com/HypoxiE/rimworld-add-my-music-mod
 	</description>
 </ModMetaData> 
