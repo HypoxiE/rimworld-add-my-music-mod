@@ -64,7 +64,14 @@ ${lineBreak}<SongDef>
 	<!--<allowedTimeOfDay>Night</allowedTimeOfDay>-->
 
 	<!--Listing the seasons in which this song is played-->
-	<allowedSeasons> <li>Winter</li><li>Spring</li><li>Summer</li><li>Fall</li> </allowedSeasons>
+	<allowedSeasons>
+		<li>Winter</li>
+		<li>Spring</li>
+		<li>Summer</li>
+		<li>Fall</li>
+		<li>PermanentSummer</li>
+		<li>PermanentWinter</li>
+	</allowedSeasons>
 </SongDef>${lineBreak}
 "@
     }
